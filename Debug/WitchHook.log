@@ -1,6 +1,0 @@
-﻿  dllmain.cpp
-C:\Users\accou\source\repos\WitchHook\dllmain.cpp(14,9): error C2425: '*': non-constant expression in 'first operand'
-C:\Users\accou\source\repos\WitchHook\dllmain.cpp(15,9): error C2415: improper operand type
-C:\Users\accou\source\repos\WitchHook\dllmain.cpp(16,9): error C2425: '*': non-constant expression in 'first operand'
-  proc.cpp
-  Generating Code...
